@@ -1,0 +1,17 @@
+name: Progress
+on:
+  push:
+jobs:
+  progress:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install Translate Progress Viewer
+        uses: actions-rs/cargo@v1
+        with:
+          command: install
+          args: trprvr
+
+      - name: Run Translate Progress Viewer
+        run: trprvr .
