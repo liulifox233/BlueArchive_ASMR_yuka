@@ -1,0 +1,48 @@
+name: Translation Progress
+on:
+  push:
+    branches: [main, master]
+    paths:
+      - "**.rs"
+      - "**.srt"
+      - "**.ass"
+      - "**.vtt"
+      - "**.lrc"
+
+jobs:
+  calculate-progress:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get install -y jq
+          cargo install trprvr
+
+      - name: Run analysis
+        run: |
+          trprvr . > raw_output.log 2>&1
+          grep -oP '^\{\s*"progress":\s*\d+\.?\d*\s*\}' raw_output.log > progress.json
+
+      - name: Generate badge
+        run: |
+          if [ ! -s progress.json ]; then
+            echo '{"progress":0}' > progress.json
+          fi
+
+          PROGRESS=$(jq -r '.progress * 100 | round' progress.json)
+          echo "Current progress: ${PROGRESS}%"
+
+          curl "https://img.shields.io/badge/Translation_Progress-${PROGRESS}%25-brightgreen" > badge.svg
+          echo "badge.svg" >> assets.txt
+
+      - name: Deploy badge
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: .
+          publish_branch: gh-pages
+          keep_files: true
+          exclude_assets: ""
+          allow_empty_commit: true
