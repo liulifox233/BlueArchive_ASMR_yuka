@@ -1,0 +1,86 @@
+[
+    {
+        "path": "mp3/01.『タイトルコール』.mp3",
+        "url": "https://raw.kiko-play-niptan.one/media/download/daily/2022-07-30/RJ403038/mp3/01.%E3%80%8E%E3%82%BF%E3%82%A4%E3%83%88%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%AB%E3%80%8F.mp3",
+        "should_download": true,
+        "fileId": 237792
+    },
+    {
+        "path": "mp3/02.『作業通話、しますか_』.mp3",
+        "url": "https://raw.kiko-play-niptan.one/media/download/daily/2022-07-30/RJ403038/mp3/02.%E3%80%8E%E4%BD%9C%E6%A5%AD%E9%80%9A%E8%A9%B1%E3%80%81%E3%81%97%E3%81%BE%E3%81%99%E3%81%8B%3F%E3%80%8F.mp3",
+        "should_download": true,
+        "fileId": 613183
+    },
+    {
+        "path": "mp3/03.『今からシャーレに向かいますので』.mp3",
+        "url": "https://raw.kiko-play-niptan.one/media/download/daily/2022-07-30/RJ403038/mp3/03.%E3%80%8E%E4%BB%8A%E3%81%8B%E3%82%89%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%AC%E3%81%AB%E5%90%91%E3%81%8B%E3%81%84%E3%81%BE%E3%81%99%E3%81%AE%E3%81%A7%E3%80%8F.mp3",
+        "should_download": true,
+        "fileId": 613184
+    },
+    {
+        "path": "mp3/04.『休憩も大切ですから』.mp3",
+        "url": "https://raw.kiko-play-niptan.one/media/download/daily/2022-07-30/RJ403038/mp3/04.%E3%80%8E%E4%BC%91%E6%86%A9%E3%82%82%E5%A4%A7%E5%88%87%E3%81%A7%E3%81%99%E3%81%8B%E3%82%89%E3%80%8F.mp3",
+        "should_download": true,
+        "fileId": 613185
+    },
+    {
+        "path": "mp3/05.『眠いわけじゃ、ありません……』.mp3",
+        "url": "https://raw.kiko-play-niptan.one/media/download/daily/2022-07-30/RJ403038/mp3/05.%E3%80%8E%E7%9C%A0%E3%81%84%E3%82%8F%E3%81%91%E3%81%98%E3%82%83%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E2%80%A6%E2%80%A6%E3%80%8F.mp3",
+        "should_download": true,
+        "fileId": 613186
+    },
+    {
+        "path": "mp3/ボーナストラック/06. ボーナストラック『お昼寝用15分アラーム』.mp3",
+        "url": "https://raw.kiko-play-niptan.one/media/download/daily/2022-07-30/RJ403038/mp3/%E3%83%9C%E3%83%BC%E3%83%8A%E3%82%B9%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF/06.%20%E3%83%9C%E3%83%BC%E3%83%8A%E3%82%B9%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF%E3%80%8E%E3%81%8A%E6%98%BC%E5%AF%9D%E7%94%A815%E5%88%86%E3%82%A2%E3%83%A9%E3%83%BC%E3%83%A0%E3%80%8F.mp3",
+        "should_download": true,
+        "fileId": 614394
+    },
+    {
+        "path": "mp3/ボーナストラック/07. ボーナストラック『お昼寝用15分アラーム(アラーム音無し)』.mp3",
+        "url": "https://raw.kiko-play-niptan.one/media/download/daily/2022-07-30/RJ403038/mp3/%E3%83%9C%E3%83%BC%E3%83%8A%E3%82%B9%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF/07.%20%E3%83%9C%E3%83%BC%E3%83%8A%E3%82%B9%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF%E3%80%8E%E3%81%8A%E6%98%BC%E5%AF%9D%E7%94%A815%E5%88%86%E3%82%A2%E3%83%A9%E3%83%BC%E3%83%A0(%E3%82%A2%E3%83%A9%E3%83%BC%E3%83%A0%E9%9F%B3%E7%84%A1%E3%81%97)%E3%80%8F.mp3",
+        "should_download": true,
+        "fileId": 614395
+    },
+    {
+        "path": "wav/01.『タイトルコール』.wav",
+        "url": "https://raw.kiko-play-niptan.one/media/download/daily/2022-07-30/RJ403038/wav/01.%E3%80%8E%E3%82%BF%E3%82%A4%E3%83%88%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%AB%E3%80%8F.wav",
+        "should_download": false,
+        "fileId": 238106
+    },
+    {
+        "path": "wav/02.『作業通話、しますか_』.wav",
+        "url": "https://raw.kiko-play-niptan.one/media/download/daily/2022-07-30/RJ403038/wav/02.%E3%80%8E%E4%BD%9C%E6%A5%AD%E9%80%9A%E8%A9%B1%E3%80%81%E3%81%97%E3%81%BE%E3%81%99%E3%81%8B%3F%E3%80%8F.wav",
+        "should_download": false,
+        "fileId": 613654
+    },
+    {
+        "path": "wav/03.『今からシャーレに向かいますので』.wav",
+        "url": "https://raw.kiko-play-niptan.one/media/download/daily/2022-07-30/RJ403038/wav/03.%E3%80%8E%E4%BB%8A%E3%81%8B%E3%82%89%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%AC%E3%81%AB%E5%90%91%E3%81%8B%E3%81%84%E3%81%BE%E3%81%99%E3%81%AE%E3%81%A7%E3%80%8F.wav",
+        "should_download": false,
+        "fileId": 613655
+    },
+    {
+        "path": "wav/04.『休憩も大切ですから』.wav",
+        "url": "https://raw.kiko-play-niptan.one/media/download/daily/2022-07-30/RJ403038/wav/04.%E3%80%8E%E4%BC%91%E6%86%A9%E3%82%82%E5%A4%A7%E5%88%87%E3%81%A7%E3%81%99%E3%81%8B%E3%82%89%E3%80%8F.wav",
+        "should_download": false,
+        "fileId": 613656
+    },
+    {
+        "path": "wav/05.『眠いわけじゃ、ありません……』.wav",
+        "url": "https://raw.kiko-play-niptan.one/media/download/daily/2022-07-30/RJ403038/wav/05.%E3%80%8E%E7%9C%A0%E3%81%84%E3%82%8F%E3%81%91%E3%81%98%E3%82%83%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E2%80%A6%E2%80%A6%E3%80%8F.wav",
+        "should_download": false,
+        "fileId": 613657
+    },
+    {
+        "path": "wav/ボーナストラック/06. ボーナストラック『お昼寝用15分アラーム』.wav",
+        "url": "https://raw.kiko-play-niptan.one/media/download/daily/2022-07-30/RJ403038/wav/%E3%83%9C%E3%83%BC%E3%83%8A%E3%82%B9%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF/06.%20%E3%83%9C%E3%83%BC%E3%83%8A%E3%82%B9%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF%E3%80%8E%E3%81%8A%E6%98%BC%E5%AF%9D%E7%94%A815%E5%88%86%E3%82%A2%E3%83%A9%E3%83%BC%E3%83%A0%E3%80%8F.wav",
+        "should_download": false,
+        "fileId": 614638
+    },
+    {
+        "path": "wav/ボーナストラック/07. ボーナストラック『お昼寝用15分アラーム(アラーム音無し)』.wav",
+        "url": "https://raw.kiko-play-niptan.one/media/download/daily/2022-07-30/RJ403038/wav/%E3%83%9C%E3%83%BC%E3%83%8A%E3%82%B9%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF/07.%20%E3%83%9C%E3%83%BC%E3%83%8A%E3%82%B9%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF%E3%80%8E%E3%81%8A%E6%98%BC%E5%AF%9D%E7%94%A815%E5%88%86%E3%82%A2%E3%83%A9%E3%83%BC%E3%83%A0(%E3%82%A2%E3%83%A9%E3%83%BC%E3%83%A0%E9%9F%B3%E7%84%A1%E3%81%97)%E3%80%8F.wav",
+        "should_download": false,
+        "fileId": 614639
+    }
+]
